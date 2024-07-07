@@ -35,7 +35,7 @@ Open your web browser and go to `http://localhost:8501` to view and interact wit
 
 ## Deployment
 
-The app is deployed using [Streamlit Sharing](https://www.streamlit.io/sharing). Visit [the deployed app]([https://your-app-url.com](https://heartdispredict.streamlit.app/)) to use it online.
+The app is deployed using [Streamlit Sharing](https://www.streamlit.io/sharing). Visit (https://heartdispredict.streamlit.app/) to use it online.
 
 ## Contributing
 
