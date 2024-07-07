@@ -17,7 +17,7 @@ The machine learning model used in this app achieves an accuracy of 86% on the d
 To use the application locally, follow these steps:
 
 1. **Clone the repository:**
-git clone https://github.com/an-admin/heart_dis.git
+git clone https://github.com/an-admin/Heart_dis.git
 
    cd heart-disease-prediction-app
 
